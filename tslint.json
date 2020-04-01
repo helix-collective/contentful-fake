@@ -1,0 +1,55 @@
+{
+    "extends": [
+      // Default to all rules - add exclusions in `rules` stanza
+      "tslint:all"
+    ],
+    "linterOptions": {
+      "exclude": [
+        // JS files
+        "**/*.js"
+      ]
+    },
+    "rules": {
+      // Decided to not have
+      "array-type": false,
+      "arrow-return-shorthand": false,
+      "binary-expression-operand-order": false,
+      "comment-format": false,
+      "completed-docs": false,
+      "file-name-casing": false,
+      "interface-name": false,
+      "match-default-export-name": false,
+      "max-classes-per-file": false,
+      "member-access": false,
+      "member-ordering": false,
+      "newline-before-return": false,
+      "newline-per-chained-call": false,
+      "no-parameter-properties": false,
+      "no-inferrable-types": false,
+      "no-magic-numbers": false,
+      "no-null-keyword": false,
+      "no-void-expression": false,
+      "object-literal-sort-keys": false,
+      "only-arrow-functions": false,
+      "prefer-function-over-method": false,
+      "prefer-switch": false,
+      "prefer-template": false,
+      "promise-function-async": false,
+      "restrict-plus-operands": false,
+      "strict-boolean-expressions": false,
+      "typedef": false,
+      "variable-name": false,
+
+      // Configuration of enabled rules
+      "no-implicit-dependencies": [true, "dev"],
+      "no-submodule-imports": [true, "puppeteer/DeviceDescriptors"],
+      "no-unused-variable": [true, {"ignore-pattern": "^_"}],
+  
+      // TODO(ray): These are required to `require` CSS
+      // Fix this via: https://medium.com/@sapegin/css-modules-with-typescript-and-webpack-6b221ebe5f10
+      "no-var-requires": false,
+      "no-require-imports": false,
+      "no-unsafe-any": false
+    }
+  }
+  

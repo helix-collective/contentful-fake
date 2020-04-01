@@ -1,0 +1,1414 @@
+{
+  "sys": {
+    "type": "Array"
+  },
+  "total": 1,
+  "skip": 0,
+  "limit": 1000,
+  "items": [
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "x74vyp9vlegq"
+          }
+        },
+        "id": "7ejiK8zKk8OESkWua4uQSE",
+        "type": "Entry",
+        "createdAt": "2018-03-22T05:41:13.353Z",
+        "updatedAt": "2018-03-26T04:30:52.749Z",
+        "revision": 5,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "template"
+          }
+        },
+        "locale": "en-AU"
+      },
+      "fields": {
+        "backendTitle": "test page template, no autocollections",
+        "title": "test page template, no autocollections",
+        "shortDescription": "a test page template, no autocollections",
+        "path": "test-tpl",
+        "centres": [
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "3X0qIsAwoEMaaYaQWE8ykE"
+            }
+          }
+        ],
+        "modules": [
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "1JCvvQBpEIOsQyU6sQIMgc"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "includes": {
+    "Entry": [
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "x74vyp9vlegq"
+            }
+          },
+          "id": "1JCvvQBpEIOsQyU6sQIMgc",
+          "type": "Entry",
+          "createdAt": "2018-03-26T04:30:40.227Z",
+          "updatedAt": "2018-03-26T04:30:40.227Z",
+          "revision": 1,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "manualCollection"
+            }
+          },
+          "locale": "en-AU"
+        },
+        "fields": {
+          "backendTitle": "Test Manual Collection",
+          "title": "Some Manual Collection",
+          "contentEntries": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "ssO8mpeQfIqwIE86Y8iQQ"
+              }
+            }
+          ],
+          "displayMode": "Flip Flop"
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "x74vyp9vlegq"
+            }
+          },
+          "id": "1w5wPLGoPWGwyKCkSYiwoM",
+          "type": "Entry",
+          "createdAt": "2018-02-19T23:11:40.089Z",
+          "updatedAt": "2018-02-19T23:11:40.089Z",
+          "revision": 1,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "retailCategory"
+            }
+          },
+          "locale": "en-AU"
+        },
+        "fields": {
+          "backendTitle": "Health and fitness",
+          "title": "Health and fitness",
+          "level": 1
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "x74vyp9vlegq"
+            }
+          },
+          "id": "2MKqnvHffa2gMW6SQaaSc8",
+          "type": "Entry",
+          "createdAt": "2018-02-19T23:13:19.749Z",
+          "updatedAt": "2018-02-19T23:13:19.749Z",
+          "revision": 1,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "retailCategory"
+            }
+          },
+          "locale": "en-AU"
+        },
+        "fields": {
+          "backendTitle": "Entertainment and activities",
+          "title": "Entertainment and activities",
+          "level": 1,
+          "shortDescription": "Entertainment and Activities"
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "x74vyp9vlegq"
+            }
+          },
+          "id": "2Sm0gfks5igM4UMKOAo2Ga",
+          "type": "Entry",
+          "createdAt": "2018-02-19T23:12:16.261Z",
+          "updatedAt": "2018-02-19T23:12:16.261Z",
+          "revision": 1,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "retailCategory"
+            }
+          },
+          "locale": "en-AU"
+        },
+        "fields": {
+          "backendTitle": "Activewear",
+          "title": "Activewear",
+          "parentCategory": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "2sRC6RkTeEI8U6AM2OsOKy"
+            }
+          },
+          "shortDescription": "Activewear"
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "x74vyp9vlegq"
+            }
+          },
+          "id": "2WunmHLFeUSWsoqoikyAii",
+          "type": "Entry",
+          "createdAt": "2018-02-19T23:11:38.074Z",
+          "updatedAt": "2018-02-19T23:11:38.074Z",
+          "revision": 1,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "retailCategory"
+            }
+          },
+          "locale": "en-AU"
+        },
+        "fields": {
+          "backendTitle": "Gyms and fitness studios",
+          "title": "Gyms and fitness studios",
+          "parentCategory": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "1w5wPLGoPWGwyKCkSYiwoM"
+            }
+          },
+          "level": 1
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "x74vyp9vlegq"
+            }
+          },
+          "id": "2sRC6RkTeEI8U6AM2OsOKy",
+          "type": "Entry",
+          "createdAt": "2018-02-19T23:12:18.337Z",
+          "updatedAt": "2018-02-19T23:12:18.337Z",
+          "revision": 1,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "retailCategory"
+            }
+          },
+          "locale": "en-AU"
+        },
+        "fields": {
+          "backendTitle": "Sporting goods",
+          "title": "Sporting goods",
+          "shortDescription": "Sporting goods"
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "x74vyp9vlegq"
+            }
+          },
+          "id": "3FHa8sm1vWswquEgoAqoAM",
+          "type": "Entry",
+          "createdAt": "2018-02-08T06:57:28.461Z",
+          "updatedAt": "2018-02-16T03:09:29.378Z",
+          "revision": 5,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "retailCategory"
+            }
+          },
+          "locale": "en-AU"
+        },
+        "fields": {
+          "backendTitle": "Clothing & Accessories",
+          "title": "Clothing & Accessories",
+          "aliases": ["fashion", "dresses"]
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "x74vyp9vlegq"
+            }
+          },
+          "id": "3X0qIsAwoEMaaYaQWE8ykE",
+          "type": "Entry",
+          "createdAt": "2018-02-03T13:13:48.018Z",
+          "updatedAt": "2018-03-22T23:37:33.600Z",
+          "revision": 53,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "centre"
+            }
+          },
+          "locale": "en-AU"
+        },
+        "fields": {
+          "backendTitle": "Woden",
+          "title": "Woden",
+          "slug": "woden",
+          "physicalAddress": "Keltie Street",
+          "suburb": "Woden",
+          "postcode": "2606",
+          "state": "ACT",
+          "country": "Australia",
+          "telephoneNumber": "(02) 6283 6000",
+          "emailAddress": "Concierge.woden@scentregroup.com",
+          "status": "Open",
+          "facebook": "http://www.facebook.com/westfieldwoden",
+          "twitter": "http://twitter.com/westfieldau",
+          "instagram": "http://instagram.com/WestfieldWoden",
+          "latitude": -35.346482,
+          "longitude": 149.085141,
+          "timeZone": "Australia/Sydney",
+          "utilityBoxRetailerCategories": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "4EiDyyRM2sAkcOWcGw6YAE"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "HLMccrmkkmG6eMuESSCe"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "5IogQ5a5BSWaE2wuWEM6mC"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "4I1dyR9vM4am68c8GE2WIS"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "2Sm0gfks5igM4UMKOAo2Ga"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "2MKqnvHffa2gMW6SQaaSc8"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "3vvK3N4WRyCiIC4oImgoQq"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "3FHa8sm1vWswquEgoAqoAM"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "2WunmHLFeUSWsoqoikyAii"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "6GrORNsUBaC4oAEU6Wy0IM"
+              }
+            }
+          ],
+          "navigationMenu": [
+            {
+              "items": [
+                {
+                  "url": "/woden/whats-happening",
+                  "label": "What's happening"
+                },
+                {
+                  "url": "/woden/opening-hours",
+                  "label": "Opening hours"
+                },
+                {
+                  "url": "/woden/service/6dcXxQGGjYIQKUgui04OC8/parking",
+                  "label": "Parking info"
+                },
+                {
+                  "url": "/woden/service/4d7pNw6MWsQykewOsi06CO/getting-here",
+                  "label": "Getting here"
+                },
+                {
+                  "url": "/woden/centre-map",
+                  "label": "Centre map"
+                },
+                {
+                  "url": "/woden/service/x/styling",
+                  "label": "Personal styling"
+                },
+                {
+                  "url": "/woden/service/1EL89bjKTqUu64GmKgEI0U/free-wifi",
+                  "label": "Free wifi"
+                },
+                {
+                  "url": "/woden/service/1NlqjaCLFqA8GKEi8SOScu/community",
+                  "label": "Community"
+                },
+                {
+                  "url":
+                    "/woden/service/5OUP4I8M6IMYkqS28uIKGs/visiting-with-kids",
+                  "label": "Visiting with kids"
+                },
+                {
+                  "url": "/woden/service/Yfc0skyS40S6IQsskKEWg/accessibility",
+                  "label": "Accessibility"
+                }
+              ],
+              "title": "Plan"
+            },
+            {
+              "items": [
+                {
+                  "url": "/woden/womens-fashion",
+                  "label": "Women's fashion"
+                },
+                {
+                  "url": "/woden/mens-fashion",
+                  "label": "Men's fashion"
+                },
+                {
+                  "url": "/woden/kids-and-family",
+                  "label": "Kids and Family"
+                },
+                {
+                  "url": "/woden/home-and-tech",
+                  "label": "Home and Tech"
+                },
+                {
+                  "url": "/woden/sport-and-leisure",
+                  "label": "Sport and Leisure"
+                },
+                {
+                  "url": "/woden/groceries-and-fresh-food",
+                  "label": "Fresh food"
+                },
+                {
+                  "url": "/woden/browse-stores",
+                  "label": "Browse Stores"
+                }
+              ],
+              "title": "Shop"
+            },
+            {
+              "items": [
+                {
+                  "url": "/woden/dining",
+                  "label": "Dining"
+                },
+                {
+                  "url": "/woden/quick-eats",
+                  "label": "Quick Eats"
+                }
+              ],
+              "title": "Eat + Drink"
+            },
+            {
+              "items": [
+                {
+                  "url": "/woden/movies",
+                  "label": "Movies"
+                }
+              ],
+              "title": "Entertainment"
+            },
+            {
+              "items": [
+                {
+                  "url": "/woden/health-and-wellness",
+                  "label": "Health and Wellness"
+                }
+              ],
+              "title": "Health + Wellness"
+            }
+          ],
+          "parkingOccupancy": {
+            "1": {
+              "5": "1",
+              "6": "1",
+              "7": "2",
+              "8": "7",
+              "9": "28",
+              "10": "49",
+              "11": "59",
+              "12": "64",
+              "13": "64",
+              "14": "62",
+              "15": "57",
+              "16": "39",
+              "17": "18",
+              "18": "12",
+              "19": "11",
+              "20": "10",
+              "21": "7",
+              "22": "5",
+              "23": "4"
+            },
+            "2": {
+              "5": "1",
+              "6": "2",
+              "7": "9",
+              "8": "33",
+              "9": "58",
+              "10": "71",
+              "11": "77",
+              "12": "79",
+              "13": "77",
+              "14": "74",
+              "15": "69",
+              "16": "62",
+              "17": "68",
+              "18": "17",
+              "19": "12",
+              "20": "11",
+              "21": "7",
+              "22": "5",
+              "23": "5"
+            },
+            "3": {
+              "5": "1",
+              "6": "2",
+              "7": "10",
+              "8": "37",
+              "9": "64",
+              "10": "77",
+              "11": "82",
+              "12": "84",
+              "13": "83",
+              "14": "78",
+              "15": "72",
+              "16": "67",
+              "17": "76",
+              "18": "20",
+              "19": "15",
+              "20": "13",
+              "21": "10",
+              "22": "7",
+              "23": "5"
+            },
+            "4": {
+              "5": "0",
+              "6": "1",
+              "7": "9",
+              "8": "37",
+              "9": "65",
+              "10": "77",
+              "11": "82",
+              "12": "85",
+              "13": "84",
+              "14": "79",
+              "15": "73",
+              "16": "67",
+              "17": "77",
+              "18": "19",
+              "19": "14",
+              "20": "12",
+              "21": "9",
+              "22": "6",
+              "23": "5"
+            },
+            "5": {
+              "5": "0",
+              "6": "1",
+              "7": "9",
+              "8": "37",
+              "9": "66",
+              "10": "79",
+              "11": "84",
+              "12": "87",
+              "13": "86",
+              "14": "81",
+              "15": "75",
+              "16": "69",
+              "17": "79",
+              "18": "20",
+              "19": "14",
+              "20": "12",
+              "21": "9",
+              "22": "7",
+              "23": "5"
+            },
+            "6": {
+              "5": "0",
+              "6": "1",
+              "7": "9",
+              "8": "36",
+              "9": "66",
+              "10": "80",
+              "11": "86",
+              "12": "88",
+              "13": "88",
+              "14": "83",
+              "15": "78",
+              "16": "75",
+              "17": "63",
+              "18": "53",
+              "19": "47",
+              "20": "38",
+              "21": "21",
+              "22": "12",
+              "23": "8"
+            },
+            "7": {
+              "5": "0",
+              "6": "1",
+              "7": "2",
+              "8": "14",
+              "9": "35",
+              "10": "54",
+              "11": "63",
+              "12": "66",
+              "13": "66",
+              "14": "65",
+              "15": "61",
+              "16": "49",
+              "17": "27",
+              "18": "17",
+              "19": "16",
+              "20": "15",
+              "21": "12",
+              "22": "10",
+              "23": "6"
+            }
+          },
+          "centrePatternImageSet": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "qoMYFhiMM0a08Wg4Eakyy"
+            }
+          },
+          "parkingAvailabilityDescription":
+            "This is only for covered parking with Parking Guidance System. We still have plenty of spaces in outdoor parking area on Keltie St. "
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "x74vyp9vlegq"
+            }
+          },
+          "id": "3k013woT5uAcwACcYuWmaE",
+          "type": "Entry",
+          "createdAt": "2018-02-11T23:04:07.021Z",
+          "updatedAt": "2018-02-11T23:37:58.621Z",
+          "revision": 10,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "heroImageSet"
+            }
+          },
+          "locale": "en-AU"
+        },
+        "fields": {
+          "backendTitle": "rebel-front-image",
+          "master": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "6JwyGVMgJaSI46sQaEU0ye"
+            }
+          },
+          "description": "rebel-front-image"
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "x74vyp9vlegq"
+            }
+          },
+          "id": "3vvK3N4WRyCiIC4oImgoQq",
+          "type": "Entry",
+          "createdAt": "2018-02-19T23:13:51.207Z",
+          "updatedAt": "2018-02-19T23:13:51.207Z",
+          "revision": 1,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "retailCategory"
+            }
+          },
+          "locale": "en-AU"
+        },
+        "fields": {
+          "backendTitle": "Luggage and travel accessories",
+          "title": "Luggage and travel accessories",
+          "level": 1,
+          "shortDescription": "Luggage and travel accessories"
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "x74vyp9vlegq"
+            }
+          },
+          "id": "4EiDyyRM2sAkcOWcGw6YAE",
+          "type": "Entry",
+          "createdAt": "2018-02-19T23:13:05.042Z",
+          "updatedAt": "2018-02-19T23:13:05.042Z",
+          "revision": 1,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "retailCategory"
+            }
+          },
+          "locale": "en-AU"
+        },
+        "fields": {
+          "backendTitle": "Clothing and accessories",
+          "title": "Clothing and accessories",
+          "level": 1,
+          "shortDescription": "Clothing and accessories"
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "x74vyp9vlegq"
+            }
+          },
+          "id": "4I1dyR9vM4am68c8GE2WIS",
+          "type": "Entry",
+          "createdAt": "2018-02-19T23:13:14.630Z",
+          "updatedAt": "2018-03-09T04:03:08.499Z",
+          "revision": 3,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "retailCategory"
+            }
+          },
+          "locale": "en-AU"
+        },
+        "fields": {
+          "backendTitle": "Fresh food and groceries",
+          "title": "Fresh food and groceries",
+          "aliases": ["Fresh food"],
+          "level": 1,
+          "shortDescription": "Fresh food and groceries"
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "x74vyp9vlegq"
+            }
+          },
+          "id": "4rTVfDQe36aICoQWmMoC20",
+          "type": "Entry",
+          "createdAt": "2018-02-11T23:41:02.250Z",
+          "updatedAt": "2018-02-11T23:41:02.250Z",
+          "revision": 1,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "retailerLogoSet"
+            }
+          },
+          "locale": "en-AU"
+        },
+        "fields": {
+          "backendTitle": "rebel-logo",
+          "coloured": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "2F4TQvRxWUsasOmiEW2us"
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "x74vyp9vlegq"
+            }
+          },
+          "id": "5IogQ5a5BSWaE2wuWEM6mC",
+          "type": "Entry",
+          "createdAt": "2018-02-19T23:13:49.780Z",
+          "updatedAt": "2018-02-22T05:08:27.510Z",
+          "revision": 2,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "retailCategory"
+            }
+          },
+          "locale": "en-AU"
+        },
+        "fields": {
+          "backendTitle": "Food and drink",
+          "title": "Food and drink",
+          "aliases": ["fast food"],
+          "level": 1,
+          "shortDescription": "Food and drink"
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "x74vyp9vlegq"
+            }
+          },
+          "id": "6GrORNsUBaC4oAEU6Wy0IM",
+          "type": "Entry",
+          "createdAt": "2018-02-19T23:13:25.835Z",
+          "updatedAt": "2018-02-19T23:13:25.835Z",
+          "revision": 1,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "retailCategory"
+            }
+          },
+          "locale": "en-AU"
+        },
+        "fields": {
+          "backendTitle": "Books, stationery and gifts",
+          "title": "Books, stationery and gifts",
+          "level": 1,
+          "shortDescription": "Books, stationery and gifts"
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "x74vyp9vlegq"
+            }
+          },
+          "id": "6L8KCC5LkkUIACcYAK0WcA",
+          "type": "Entry",
+          "createdAt": "2018-02-03T13:14:27.617Z",
+          "updatedAt": "2018-03-12T05:44:29.104Z",
+          "revision": 2,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "centre"
+            }
+          },
+          "locale": "en-AU"
+        },
+        "fields": {
+          "backendTitle": "Airport West",
+          "title": "Airport West",
+          "slug": "airportwest",
+          "physicalAddress": "29 - 35 Louis St",
+          "suburb": "Airport West",
+          "postcode": "3042",
+          "state": "VIC",
+          "country": "Australia",
+          "telephoneNumber": "0383112831",
+          "emailAddress": "CAirportWest2@scentregroup.com",
+          "status": "Open",
+          "facebook": "http://www.facebook.com/westfieldairportwest",
+          "twitter": "http://twitter.com/westfieldau",
+          "instagram": "",
+          "latitude": -37.713985,
+          "longitude": 144.885268,
+          "timeZone": "Australia/Melbourne",
+          "utilityBoxRetailerCategories": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "2Sm0gfks5igM4UMKOAo2Ga"
+              }
+            }
+          ],
+          "navigationMenu": {},
+          "parkingOccupancy": {
+            "1": {
+              "5": "0",
+              "6": "1",
+              "7": "2",
+              "8": "8",
+              "9": "29",
+              "10": "52",
+              "11": "66",
+              "12": "73",
+              "13": "75",
+              "14": "73",
+              "15": "66",
+              "16": "52",
+              "17": "30",
+              "18": "18",
+              "19": "14",
+              "20": "11",
+              "21": "8",
+              "22": "6",
+              "23": "4"
+            },
+            "2": {
+              "5": "1",
+              "6": "2",
+              "7": "6",
+              "8": "21",
+              "9": "56",
+              "10": "58",
+              "11": "65",
+              "12": "67",
+              "13": "66",
+              "14": "62",
+              "15": "54",
+              "16": "48",
+              "17": "48",
+              "18": "19",
+              "19": "14",
+              "20": "11",
+              "21": "8",
+              "22": "5",
+              "23": "4"
+            },
+            "3": {
+              "5": "1",
+              "6": "3",
+              "7": "7",
+              "8": "23",
+              "9": "59",
+              "10": "61",
+              "11": "67",
+              "12": "70",
+              "13": "68",
+              "14": "63",
+              "15": "54",
+              "16": "49",
+              "17": "51",
+              "18": "21",
+              "19": "17",
+              "20": "14",
+              "21": "10",
+              "22": "7",
+              "23": "5"
+            },
+            "4": {
+              "5": "1",
+              "6": "3",
+              "7": "7",
+              "8": "24",
+              "9": "61",
+              "10": "62",
+              "11": "69",
+              "12": "72",
+              "13": "70",
+              "14": "64",
+              "15": "55",
+              "16": "49",
+              "17": "51",
+              "18": "21",
+              "19": "16",
+              "20": "14",
+              "21": "9",
+              "22": "6",
+              "23": "5"
+            },
+            "5": {
+              "5": "1",
+              "6": "2",
+              "7": "7",
+              "8": "24",
+              "9": "63",
+              "10": "65",
+              "11": "72",
+              "12": "75",
+              "13": "74",
+              "14": "68",
+              "15": "60",
+              "16": "57",
+              "17": "59",
+              "18": "55",
+              "19": "55",
+              "20": "47",
+              "21": "24",
+              "22": "9",
+              "23": "6"
+            },
+            "6": {
+              "5": "1",
+              "6": "2",
+              "7": "7",
+              "8": "24",
+              "9": "65",
+              "10": "67",
+              "11": "74",
+              "12": "77",
+              "13": "76",
+              "14": "70",
+              "15": "61",
+              "16": "56",
+              "17": "54",
+              "18": "34",
+              "19": "31",
+              "20": "27",
+              "21": "18",
+              "22": "10",
+              "23": "7"
+            },
+            "7": {
+              "5": "0",
+              "6": "1",
+              "7": "5",
+              "8": "22",
+              "9": "54",
+              "10": "67",
+              "11": "77",
+              "12": "82",
+              "13": "83",
+              "14": "81",
+              "15": "76",
+              "16": "63",
+              "17": "40",
+              "18": "23",
+              "19": "19",
+              "20": "18",
+              "21": "14",
+              "22": "10",
+              "23": "7"
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "x74vyp9vlegq"
+            }
+          },
+          "id": "6Md8t2wukg6AwM4a2S8Acy",
+          "type": "Entry",
+          "createdAt": "2018-02-11T23:57:13.337Z",
+          "updatedAt": "2018-02-12T00:30:43.528Z",
+          "revision": 2,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "retailer"
+            }
+          },
+          "locale": "en-AU"
+        },
+        "fields": {
+          "backendTitle": "Rebel",
+          "title": "Rebel",
+          "slug": "rebel",
+          "heroImageSet": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "3k013woT5uAcwACcYuWmaE"
+            }
+          },
+          "retailerLogoSet": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "4rTVfDQe36aICoQWmMoC20"
+            }
+          },
+          "longDescription":
+            "Rebel Sport is the leading retailer of sporting and leisure equipment, apparel and footwear in Australia, offering the biggest brands and latest products. Rebel Sport will help you find the right footwear, clothing, sports, gym and fitness, fan gear or games and leisure gear",
+          "country": "Australia",
+          "legacyIdentifier": 2468
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "x74vyp9vlegq"
+            }
+          },
+          "id": "HLMccrmkkmG6eMuESSCe",
+          "type": "Entry",
+          "createdAt": "2018-02-19T23:13:03.276Z",
+          "updatedAt": "2018-02-19T23:13:03.276Z",
+          "revision": 1,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "retailCategory"
+            }
+          },
+          "locale": "en-AU"
+        },
+        "fields": {
+          "backendTitle": "Women's fashion",
+          "title": "Women's fashion",
+          "parentCategory": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "4EiDyyRM2sAkcOWcGw6YAE"
+            }
+          },
+          "level": 2,
+          "shortDescription": "Women's fashion"
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "x74vyp9vlegq"
+            }
+          },
+          "id": "qoMYFhiMM0a08Wg4Eakyy",
+          "type": "Entry",
+          "createdAt": "2018-03-22T23:26:11.187Z",
+          "updatedAt": "2018-03-22T23:26:11.187Z",
+          "revision": 1,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "centrePatternImageSet"
+            }
+          },
+          "locale": "en-AU"
+        },
+        "fields": {
+          "backendTitle": "woden centre pattern",
+          "large": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "3XMpvTokycaMsQSwWwaYwi"
+            }
+          },
+          "small": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "6WKGqKD4zeSui408wSAa6W"
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "x74vyp9vlegq"
+            }
+          },
+          "id": "ssO8mpeQfIqwIE86Y8iQQ",
+          "type": "Entry",
+          "createdAt": "2018-02-12T03:16:03.501Z",
+          "updatedAt": "2018-03-24T13:01:20.592Z",
+          "revision": 4,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "store"
+            }
+          },
+          "locale": "en-AU"
+        },
+        "fields": {
+          "backendTitle": "Rebel",
+          "title": "Rebel",
+          "slug": "rebel",
+          "storeType": "In-line",
+          "landmarkDescription": "Located opposite The Coffee Club",
+          "parkingInstructions": "Kmart Car Park",
+          "telephoneNumber": "0383831500",
+          "emailAddress": "kkotlarek@scentregroup.com",
+          "websiteAddress": "http://westfield.com.au",
+          "status": "Open",
+          "facebook": "",
+          "twitter": "",
+          "centre": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "6L8KCC5LkkUIACcYAK0WcA"
+            }
+          },
+          "retailer": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "6Md8t2wukg6AwM4a2S8Acy"
+            }
+          },
+          "legacyIdentifier": 44220,
+          "reputationCode": "airportwest_1-MM2_rebel"
+        }
+      }
+    ],
+    "Asset": [
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "x74vyp9vlegq"
+            }
+          },
+          "id": "2F4TQvRxWUsasOmiEW2us",
+          "type": "Asset",
+          "createdAt": "2018-02-11T22:55:41.380Z",
+          "updatedAt": "2018-02-11T22:55:41.380Z",
+          "revision": 1,
+          "locale": "en-AU"
+        },
+        "fields": {
+          "title": "rebel-logo",
+          "description": null,
+          "file": {
+            "url":
+              "//images.ctfassets.net/x74vyp9vlegq/2F4TQvRxWUsasOmiEW2us/c1ce651ae1630af5925cf620cd2b086e/rebel-logo",
+            "details": {
+              "size": 21902,
+              "image": {
+                "width": 600,
+                "height": 600
+              }
+            },
+            "fileName": "rebel-logo",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "x74vyp9vlegq"
+            }
+          },
+          "id": "3XMpvTokycaMsQSwWwaYwi",
+          "type": "Asset",
+          "createdAt": "2018-03-22T23:25:33.005Z",
+          "updatedAt": "2018-03-22T23:25:50.563Z",
+          "revision": 2,
+          "locale": "en-AU"
+        },
+        "fields": {
+          "title": "woden centre pattern",
+          "description": "woden centre pattern",
+          "file": {
+            "url":
+              "//images.ctfassets.net/x74vyp9vlegq/3XMpvTokycaMsQSwWwaYwi/35177263e6820f7ad352ca015ec1aee7/Woden.svg",
+            "details": {
+              "size": 2537,
+              "image": {
+                "width": 800,
+                "height": 336
+              }
+            },
+            "fileName": "Woden.svg",
+            "contentType": "image/svg+xml"
+          }
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "x74vyp9vlegq"
+            }
+          },
+          "id": "6JwyGVMgJaSI46sQaEU0ye",
+          "type": "Asset",
+          "createdAt": "2018-02-11T22:58:43.871Z",
+          "updatedAt": "2018-02-11T22:58:43.871Z",
+          "revision": 1,
+          "locale": "en-AU"
+        },
+        "fields": {
+          "title": "rebel-front-image",
+          "description": null,
+          "file": {
+            "url":
+              "//images.ctfassets.net/x74vyp9vlegq/6JwyGVMgJaSI46sQaEU0ye/62cb37ff4de585db91a66bbe6a8322eb/rebel-storefront-Imagery22880x864.jpg",
+            "details": {
+              "size": 815491,
+              "image": {
+                "width": 2880,
+                "height": 864
+              }
+            },
+            "fileName": "rebel-storefront-Imagery22880x864.jpg",
+            "contentType": "image/jpg"
+          }
+        }
+      },
+      {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "x74vyp9vlegq"
+            }
+          },
+          "id": "6WKGqKD4zeSui408wSAa6W",
+          "type": "Asset",
+          "createdAt": "2018-03-22T23:26:04.504Z",
+          "updatedAt": "2018-03-22T23:26:04.504Z",
+          "revision": 1,
+          "locale": "en-AU"
+        },
+        "fields": {
+          "title": "woden centre pattern",
+          "description": "woden centre pattern",
+          "file": {
+            "url":
+              "//images.ctfassets.net/x74vyp9vlegq/6WKGqKD4zeSui408wSAa6W/f1b5ca120af46c5c8319a6d351feb5c5/Woden-mobile.svg",
+            "details": {
+              "size": 3024,
+              "image": {
+                "width": 800,
+                "height": 336
+              }
+            },
+            "fileName": "Woden-mobile.svg",
+            "contentType": "image/svg+xml"
+          }
+        }
+      }
+    ]
+  }
+}

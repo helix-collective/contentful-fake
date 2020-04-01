@@ -1,0 +1,30 @@
+{
+  "name": "fake-contentful",
+  "version": "1.0.0",
+  "description": "Fake implementation of Contentful ",
+  "main": "index.js",
+  "author": "Helix Collective",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "contentful": "^7.9.1",
+    "contentful-management": "^5.9.0",
+    "contentful-resolve-response": "^1.1.4",
+    "moment": "^2.23.0",
+    "random-seed": "^0.3.0"
+  },
+  "devDependencies": {
+    "@types/contentful-resolve-response": "^0.1.30",
+    "@types/jest": "^23.3.10",
+    "@types/node": "^10.12.18",
+    "@types/random-seed": "^0.3.3",
+    "babel-jest": "^24.9.0",
+    "jest": "^23.6.0",
+    "ts-jest": "^24.1.0",
+    "tslint": "^5.12.0",
+    "typescript": "^3.2.2"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
