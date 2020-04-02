@@ -85,12 +85,8 @@ function createExistsPred<T>(fieldAccessor: string[], matchExpr: string | boolea
 
 function createLtPred<T>(fieldAccessor: string[], matchExpr: number) {
   return (e: Entry<T>) => {
-    const fieldValue: FieldValue = getField(e, fieldAccessor);
-    if (fieldValue instanceof Number) {
-      return fieldValue < matchExpr;
-    } else {
-      return false;
-    }
+    const fieldVal: FieldValue = getField(e, fieldAccessor);
+    return fieldVal !== undefined && fieldVal < matchExpr;
   };
 }
 
