@@ -1117,6 +1117,6 @@ const ppu = {
       },
     ],
   },
-}
+};
 
-export default ppu
+module.exports = ppu;

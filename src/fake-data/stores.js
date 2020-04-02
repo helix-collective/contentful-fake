@@ -602,5 +602,6 @@ const stores = {
       },
     ],
   },
-}
-export default stores
+};
+
+module.exports = stores;
