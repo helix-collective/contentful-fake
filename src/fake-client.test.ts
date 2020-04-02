@@ -19,7 +19,7 @@ describe("In Memory Contentful Client tests", () => {
   );
   const preview = factory.preview();
 
-  const TOTAL_ENTRIES: number = Object.keys(factory.getPreviewStore().getEntries()).length;
+  const TOTAL_ENTRIES: number = factory.getPreviewStore().getEntries().size;
 
   // Constants
 
