@@ -73,7 +73,7 @@ describe("In Memory Contentful Client tests", () => {
       t(
         "Should only return objects where the centre array contains at least one object with the given ides",
         {
-          "fields.centres.sys.id[in]": "3X0qIsAwoEMaaYaQWE8ykE,not-a-real-id",
+          "sys.id[in]": "3X0qIsAwoEMaaYaQWE8ykE,not-a-real-id",
         },
         1,
       );
