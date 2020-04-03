@@ -275,7 +275,7 @@ export class FakeManagementClient<T> {
     const fieldNames = Object.keys(clonedEntry.fields);
 
     for (const fieldName of fieldNames) {
-      updatedFields[fieldName] = clonedEntry.fields[name][DEFAULT_LOCALE];
+      updatedFields[fieldName] = clonedEntry.fields[fieldName][DEFAULT_LOCALE];
     }
     clonedEntry.fields = updatedFields;
     return clonedEntry;
