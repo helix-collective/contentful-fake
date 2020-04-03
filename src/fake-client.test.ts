@@ -171,8 +171,8 @@ describe("In Memory Contentful Client tests", () => {
   });
 
   it("Default include should not change in-memory store", async () => {
-    const entries = {...factory.getPreviewStore().entries};
-    const assets = {...factory.getPreviewStore().assets};
+    const entries = factory.getPreviewStore().entries;
+    const assets = factory.getPreviewStore().assets;
     await preview.getEntries({});
     expect(factory.getPreviewStore().entries).toEqual(entries);
     expect(factory.getPreviewStore().assets).toEqual(assets);
